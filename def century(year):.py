@@ -9,9 +9,9 @@ def century(year):
         return 2
     elif(check >= check and check <= check + 1  ):
         print(check)
-        print(check + 1)
+        print(int((check + 1 )))
         return
 
 
  
-century(1702)
+century(1700)
